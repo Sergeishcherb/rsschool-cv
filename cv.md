@@ -22,3 +22,6 @@ Master's degree in marine Navigation Engineering, have work experience at an int
 *High math and physics skills.
 *High attention to details.
 *Getting to the root of the issue.
+###LANGUAGE
+*IELTS GT: Listening: 6.0; Reading: 5.5; Writing: 5.5; Speaking: 6.0; Overall: 6.0;
+*IELTS AC: Listening: 5.5; Reading: 6.5; Writing: 6.0; Speaking: 5.5; Overall: 6.0;
