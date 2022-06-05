@@ -18,3 +18,7 @@ Master's degree in marine Navigation Engineering, have work experience at an int
 *2009. Second place in Physics Olympiad among Novorossiysk schools.
 *2009. Third place in Physics Olympiad among Krasnodar region's schools.
 *2010. Third place in Physics Olympiad among Novorossiysk schools.
+###SKILLS
+*High math and physics skills.
+*High attention to details.
+*Getting to the root of the issue.
