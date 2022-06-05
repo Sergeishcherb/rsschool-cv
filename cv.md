@@ -14,3 +14,7 @@ Master's degree in marine Navigation Engineering, have work experience at an int
 *Studied engineering design and computer based modeling of ship structure.
 *Projected and tested different types of vessel's hull in various sea and weather conditions.
 *Assisted in the development of the computer program determines the location of the vessel by azimuth and local time
+###AWARDS AND HONORS
+*2009. Second place in Physics Olympiad among Novorossiysk schools.
+*2009. Third place in Physics Olympiad among Krasnodar region's schools.
+*2010. Third place in Physics Olympiad among Novorossiysk schools.
