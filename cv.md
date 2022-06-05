@@ -9,3 +9,8 @@ Master's degree in marine Navigation Engineering, have work experience at an int
 *Assisted in operation, repair, and maintenance of Life Saving Appliances and deck machinery.
 *Calculated oil cargo operations, day-to-day and ports navigation.
 *Managed ship's product supply.
+###EDUCATION
+####Master's Degree in Marine Navigation Engineering
+*Studied engineering design and computer based modeling of ship structure.
+*Projected and tested different types of vessel's hull in various sea and weather conditions.
+*Assisted in the development of the computer program determines the location of the vessel by azimuth and local time
